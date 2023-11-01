@@ -1,0 +1,7 @@
+# VERSION DEV 1.0.0
+
+## Functional Changes
+- Added classes for players, obstacles, platforms and portals
+- Added movement for players
+- Added collision logic for players, obstacles and platforms
+- Created a new area "Testroom"
